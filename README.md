@@ -3,7 +3,7 @@
 <p align="left">
 </p>
 I’m currently a **Data Science student** with a strong interest in **Artificial Intelligence** and its real-world applications.  
-<br/>
+
 - 🌱 I’m currently learning **Python & R**
 - 🤖 I enjoy experimenting with generative AI, automation, and building data-driven solutions.  
 - 📊 Passionate about combining data science with practical problem solving.  
